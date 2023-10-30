@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+input{
+    height: 70px;
+    width:90%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 2%
+    /* overflow: hidden; */
+    /* text-align: center; */
+}
+button{
+  margin:4%;
+  height:auto;
+  width:auto;
+  font-size: x-large;
+  padding:23px;
+}
+table{
+    text-align: center;
+}
+body
+{
+    height:610px;
+    width:400px;
+    border:1px solid black;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 9px;
+    /* background-color: aquamarine; */
+}
+.bgclr{
+    background-color: rgb(0, 166, 255);
+}
